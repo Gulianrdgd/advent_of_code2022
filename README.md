@@ -1,1 +1,3 @@
-# advent_of_code2022
+# advent of code2022
+
+This year I am trying to learn new languages, so don't look at the code to closely...
